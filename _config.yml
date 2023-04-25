@@ -1,11 +1,11 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-title: Jekyll Chapterbook
-longtitle: Jekyll Chapterbook Theme
-author: Jason Grimes
-email: jason@grimesit.com
+title: Virtual Lab
+longtitle: Virtual Lab for Learning Ethical Hacking
+author: I Wayan Chandra
+email: chandraiwayan.ic@gmail.com
 description: >
-  A Jekyll theme based on GitBook with support for chapters and parts.
+  Virtual Lab for Learning Ethical Hacking.
 
 # If baseurl_canonical is set, 
 # a <link rel="canonical"> tag will be added to the head of each page,
@@ -47,8 +47,6 @@ sidebar_nav_top:
 sidebar_nav_bottom:
 - label: Draft outline
   url: /outline.html
-- label: Fork at GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook/fork
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
