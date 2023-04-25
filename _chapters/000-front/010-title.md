@@ -1,14 +1,13 @@
 ---
 slug: book
 title: Demo Book
-abstract: An example book for showcasing the Jekyll Chapterbook theme.
+abstract: Virtual Hacking Lab.
 ---
 
-By Jason Grimes
+By Chandra I Wayan 
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
 
-Last updated: {{ "now" | date: "%B %e, %Y" }}
 
 {% if site.baseurl_canonical %}
   The latest version of this book can always be found at  
